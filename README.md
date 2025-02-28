@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **Krzychulec21/Krzychulec21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://wakatime.com/share/@4a0259dd-c64a-40f3-b05c-060b5dff73c8/4783e98d-bcf2-483e-8c22-d0ee9476415b.svg" width="700">
